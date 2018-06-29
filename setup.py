@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="python-imodb",
+    name="imodb",
     version="0.1.0",
     author="Alexander Ryzhov",
     author_email="aryzhov07@gmail.com",
